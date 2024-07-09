@@ -1,15 +1,57 @@
 # Spotify Clone
 
-This project is a clone of the Spotify Web Player interface. It demonstrates a simple web application using HTML and CSS to replicate the design and layout of Spotify's web player.
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
-## Table of Contents
-- [Project Structure](#project-structure)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/mradul-bansal/Spotify-Clone">
+    <img src="assets/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
+  <h3 align="center">Spotify Clone</h3>
+
+  <p align="center">
+    A simple web application using HTML and CSS to replicate the design and layout of Spotify's web player.
+    <br />
+    <a href="https://github.com/mradul-bansal/Spotify-Clone"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://spotify-clone-demo.netlify.app/">View Demo</a>
+    ·
+    <a href="https://github.com/mradul-bansal/Spotify-Clone/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/mradul-bansal/Spotify-Clone/issues">Request Feature</a>
+  </p>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#project-structure">Project Structure</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+<p>
+  This project is a clone of the Spotify Web Player interface. It demonstrates a simple web application using HTML and CSS to replicate the design and layout of Spotify's web player.
+</p>
+
+<img src="assets/screenshot.png" alt="Screenshot" width="100%" height="100%">
+
+<!-- PROJECT STRUCTURE -->
 ## Project Structure
 
 The project consists of the following files:
@@ -56,7 +98,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-To view the web page, open `Spotify.html` in your preferred web browser. The page should render as a replica of the Spotify Web Player interface.
+Open `Spotify.html` in your preferred web browser to view the web page. The page should be rendered as a replica of the Spotify Web Player interface.
 
 ## Contributing
 
