@@ -13,6 +13,7 @@ This project is a clone of the Spotify Web Player interface. It demonstrates a s
 ## Project Structure
 
 The project consists of the following files:
+```plaintext
 ├── assets/
 │   ├── logo.png
 │   ├── library_icon.png
@@ -25,6 +26,7 @@ The project consists of the following files:
 │   ├── player_icon5.png
 ├── Spotify.html
 ├── Spotify.css
+```
 
 
 
