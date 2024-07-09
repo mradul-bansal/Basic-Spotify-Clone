@@ -1,10 +1,5 @@
 # Spotify Clone
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -17,14 +12,6 @@
   <p align="center">
     A simple web application using HTML and CSS to replicate the design and layout of Spotify's web player.
     <br />
-    <a href="https://github.com/mradul-bansal/Spotify-Clone"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://spotify-clone-demo.netlify.app/">View Demo</a>
-    ·
-    <a href="https://github.com/mradul-bansal/Spotify-Clone/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/mradul-bansal/Spotify-Clone/issues">Request Feature</a>
   </p>
 </p>
 
