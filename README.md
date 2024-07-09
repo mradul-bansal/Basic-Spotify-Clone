@@ -36,8 +36,6 @@
   This project is a clone of the Spotify Web Player interface. It demonstrates a simple web application using HTML and CSS to replicate the design and layout of Spotify's web player.
 </p>
 
-<img src="assets/screenshot.png" alt="Screenshot" width="100%" height="100%">
-
 <!-- PROJECT STRUCTURE -->
 ## Project Structure
 
