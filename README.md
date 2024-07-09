@@ -14,15 +14,15 @@ This project is a clone of the Spotify Web Player interface. It demonstrates a s
 
 The project consists of the following files:
 ├── assets/
-│ ├── logo.png
-│ ├── library_icon.png
-│ ├── backward_icon.png
-│ ├── forward_icon.png
-│ ├── player_icon1.png
-│ ├── player_icon2.png
-│ ├── player_icon3.png
-│ ├── player_icon4.png
-│ ├── player_icon5.png
+│   ├── logo.png
+│   ├── library_icon.png
+│   ├── backward_icon.png
+│   ├── forward_icon.png
+│   ├── player_icon1.png
+│   ├── player_icon2.png
+│   ├── player_icon3.png
+│   ├── player_icon4.png
+│   ├── player_icon5.png
 ├── Spotify.html
 ├── Spotify.css
 
