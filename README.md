@@ -12,7 +12,7 @@
   <p align="center">
     A simple web application using HTML and CSS to replicate the design and layout of Spotify's web player.
     <br />
-    Direct Link - https://bit.ly/Spotify--Clone
+    Direct Link - https://bit.ly/Spotify-Clone
   </p>
 </p>
 
